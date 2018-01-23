@@ -1,0 +1,31 @@
+{
+  "name": "cli-hangman",
+  "version": "1.2.0",
+  "description": "CLI Hang Man Game ",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachetRalph/CLI-HANGMAN.git"
+  },
+  "keywords": [
+    "CLI",
+    "Hang",
+    "Man",
+    "Game",
+    "Advanced",
+    "JS",
+    "Construtors"
+  ],
+  "author": "Ralph Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachetRalph/CLI-HANGMAN/issues"
+  },
+  "homepage": "https://github.com/RachetRalph/CLI-HANGMAN#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
