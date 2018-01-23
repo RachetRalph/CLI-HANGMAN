@@ -36,5 +36,6 @@
 .Trashesg
 ehthumbs.db
 Thumbs.db
-node_modules
 package-lock.json
+.gitignore
+/node_modules
