@@ -1,4 +1,4 @@
-const Letter = ltr => {
+var Letter = function(ltr) {
   // property to store the actual letter
   this.letter = ltr;
   // property/boolean if the letter can be shown
@@ -22,4 +22,4 @@ const Letter = ltr => {
 };
 
 // export to use in word.js
-export default Letter;
+module.exports = Letter;
